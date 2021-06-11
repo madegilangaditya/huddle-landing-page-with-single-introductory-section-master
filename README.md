@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-workflow-css-grid-css-flexbox--lLZKZbuV](hhttps://www.frontendmentor.io/solutions/mobile-first-workflow-css-grid-css-flexbox--lLZKZbuV)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-workflow-css-grid-css-flexbox--lLZKZbuV](https://www.frontendmentor.io/solutions/mobile-first-workflow-css-grid-css-flexbox--lLZKZbuV)
 - Live Site URL: [https://madegilangaditya.github.io/huddle-landing-page-with-single-introductory-section-master/](https://madegilangaditya.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
